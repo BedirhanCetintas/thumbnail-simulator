@@ -1,0 +1,20 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+frontend/.vercel/
+
+# Python / FastAPI
+backend/__pycache__/
+backend/.pytest_cache/
+backend/venv/
+backend/env/
+backend/.env
+*.pyc
+*.pyo
+
+# Misc
+.DS_Store
+.vscode/
