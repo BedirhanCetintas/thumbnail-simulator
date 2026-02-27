@@ -3,7 +3,6 @@
 
 ViralTube AI is a world-class, premium open-source web application designed to help content creators maximize their YouTube Click-Through Rates (CTR) and SEO. By harnessing the power of Large Language Models, ViralTube AI analyzes your video concepts and generates high-performing titles paired with predictive CTR metrics and sentiment analysis.
 
-![ViralTube AI Showcase](https://via.placeholder.com/1200x630.png?text=ViralTube+AI+-+Premium+Dashboard)
 
 ## ✨ Features
 - **AI-Powered Title Generation:** Input a raw topic, and instantly receive highly engaging, viral-worthy title variations.
